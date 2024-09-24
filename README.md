@@ -1,2 +1,2 @@
 # OSSPrac
-## Written by Minji Kim
+## Written By Minji Kim
